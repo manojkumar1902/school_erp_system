@@ -58,4 +58,56 @@ Built and deployed an end-to-end ERP system that digitized the entire workflow �
 ---
 
 ## 🏗️ System Architecture
-[](url)
+
+Client (PWA)
+     │
+     ▼
+REST API Layer (Python)
+     │
+     ├── Auth Service (Role-based)
+     ├── Student/Staff Management
+     ├── Notification Service (Web Push)
+     │
+     ▼
+MySQL Database (with automated backups)
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here (will update in the next step)
+
+| Homepage | Admin Dashboard |
+|----------|----------------|
+| *Coming soon* | *Coming soon* |
+
+| Student Records | Notifications |
+|-----------------|---------------|
+| *Coming soon* | *Coming soon* |
+
+---
+
+## 🎯 Impact
+
+- **700+ students** and **20+ faculty** using the system
+- Eliminated manual record-keeping errors
+- Instant communication via push notifications
+- Automated backups ensure data safety
+
+---
+
+## 🔒 Note on Source Code
+
+This repository contains documentation and screenshots of the production system. The source code is private due to client confidentiality. For a technical walkthrough or code samples, feel free to reach out.
+
+---
+
+## 👨‍💻 Author
+
+**Manoj Kumar**
+- GitHub: [@manojkumar1902](https://github.com/manojkumar1902)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/𝑀𝐴𝑁𝑂𝐽-𝐾𝑈𝑀𝐴𝑅-58ba49234)
+- Email: mkkumawat1902@gmail.com
+
+---
+⭐ If you found this project interesting, feel free to star the repo!
