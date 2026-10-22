@@ -73,7 +73,7 @@ Built and deployed an end-to-end ERP system that digitized the entire workflow â
 
 | Homepage | Admin Dashboard |
 |----------|----------------|
-| ![Homepage](screenshots/home.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Homepage](screenshots/Home.png) | ![Dashboard](screenshots/Dashboard.png) |
 
 | Student Records | Notifications |
 |-----------------|---------------|
