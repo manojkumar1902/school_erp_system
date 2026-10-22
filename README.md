@@ -79,11 +79,11 @@ MySQL Database (with automated backups)
 
 | Homepage | Admin Dashboard |
 |----------|----------------|
-| *Coming soon* | *Coming soon* |
+| *Home.png* | *Dashboard.png* |
 
 | Student Records | Notifications |
 |-----------------|---------------|
-| *Coming soon* | *Coming soon* |
+| *notification.png* | *records.png* |
 
 ---
 
