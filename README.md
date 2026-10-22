@@ -59,31 +59,25 @@ Built and deployed an end-to-end ERP system that digitized the entire workflow �
 
 ## 🏗️ System Architecture
 
-Client (PWA)
-     │
-     ▼
-REST API Layer (Python)
-     │
-     ├── Auth Service (Role-based)
-     ├── Student/Staff Management
-     ├── Notification Service (Web Push)
-     │
-     ▼
-MySQL Database (with automated backups)
+* **Client:** PWA (Progressive Web App)
+* **Backend:** REST API Layer (Python)
+* **Services:**
+  * Auth Service (Role-based)
+  * Student/Staff Management
+  * Notification Service (Web Push)
+* **Database:** MySQL (with automated backups)
 
 ---
 
 ## 📸 Screenshots
 
-> Add screenshots here (will update in the next step)
-
 | Homepage | Admin Dashboard |
 |----------|----------------|
-| *Home.png* | *Dashboard.png* |
+| ![Homepage](screenshots/home.png) | ![Dashboard](screenshots/dashboard.png) |
 
 | Student Records | Notifications |
 |-----------------|---------------|
-| *notification.png* | *records.png* |
+| ![Records](screenshots/records.png) | ![Notifications](screenshots/notification.png) |
 
 ---
 
